@@ -1,0 +1,784 @@
+[
+  {
+    "id": 1,
+    "nome": "Agentes da Cultura",
+    "tipo": "Cultural",
+    "curso": [
+      "Engenharia de Software",
+      "Ciência da Computação",
+      "Engenharia de Produção",
+      "Engenharia Civil",
+      "Engenharia Mecânica"
+    ],
+    "descricao": "O Clube do Improviso foi idealizado como um espaço para que os alunos desenvolvam suas habilidades sociais, incluindo oratória, expressão corporal e autoestima. Para muitos participantes, o projeto representa mais do que um simples treinamento — é também uma forma de descontração e alívio da rotina acadêmica. As atividades do clube envolvem técnicas de movimento, comunicação, pensamento rápido, estímulos sociais e dinâmicas competitivas. Nossos integrantes dedicam-se ao estudo e à preparação de cada encontro, planejando atividades práticas que promovem a interação e o aprimoramento coletivo. O Clube do Improviso convida todos os interessados a participar e descobrir, na prática, o poder da criatividade e da espontaneidade.",
+    "coordenadores": [
+      {
+        "nome": "Rafael Ivo",
+        "categoria": "Professor",
+        "foto": ""
+      },
+      {
+        "nome": "Maria Clara",
+        "categoria": "Aluna",
+        "foto": ""
+      }
+    ],
+    "imagemPrincipal": "/img/agentes_da_cultura.png",
+
+    "links": {
+      "instagram": "https://www.instagram.com/clubedoimproviso/"
+    }
+  },
+  {
+    "id": 2,
+    "nome": "Clube do Improviso",
+    "tipo": "Cultural",
+    "curso": [
+      "Engenharia de Software",
+      "Ciência da Computação",
+      "Engenharia de Produção",
+      "Engenharia Civil",
+      "Engenharia Mecânica"
+    ],
+    "descricao": "O Clube do Improviso foi idealizado como um espaço para que os alunos desenvolvam suas habilidades sociais, incluindo oratória, expressão corporal e autoestima. Para muitos participantes, o projeto representa mais do que um simples treinamento — é também uma forma de descontração e alívio da rotina acadêmica. As atividades do clube envolvem técnicas de movimento, comunicação, pensamento rápido, estímulos sociais e dinâmicas competitivas. Nossos integrantes dedicam-se ao estudo e à preparação de cada encontro, planejando atividades práticas que promovem a interação e o aprimoramento coletivo. O Clube do Improviso convida todos os interessados a participar e descobrir, na prática, o poder da criatividade e da espontaneidade.",
+    "coordenadores": [
+      {
+        "nome": "Rafael Ivo",
+        "categoria": "Professor",
+        "foto": "/img/ivo.jpg"
+      },
+      {
+        "nome": "Maria Clara",
+        "categoria": "Aluna",
+        "foto": "/img/ivo.jpg"
+      }
+    ],
+    "imagemPrincipal": "/img/clube_do_improviso.png",
+
+    "links": {
+      "instagram": "https://www.instagram.com/clubedoimproviso/"
+    }
+  },
+  {
+    "id": 3,
+    "nome": "LabSoci",
+    "tipo": "Cultural",
+    "curso": [
+      "Engenharia de Software",
+      "Ciência da Computação",
+      "Engenharia de Produção",
+      "Engenharia Civil",
+      "Engenharia Mecânica"
+    ],
+    "descricao": "O LabSoci é um projeto cultural que utiliza o sociodrama como ferramentas para estimular o pensamento crítico, promover debates sociais e desenvolver a expressão coletiva. Nosso objetivo é criar um espaço de experimentação e aprendizado, onde participantes possam explorar problemáticas sociais por meio da arte e do teatro interativo.",
+    "coordenadores": [
+      {
+        "nome": "Rafael Ivo",
+        "categoria": "Professor",
+        "foto": "/img/ivo.jpg"
+      },
+      {
+        "nome": "Maria Clara",
+        "categoria": "Aluna",
+        "foto": "/img/ivo.jpg"
+      }
+    ],
+    "imagemPrincipal": "/img/LabSoci.png",
+
+    "links": {
+      "instagram": "https://www.instagram.com/labsoci/"
+    }
+  },
+  {
+    "id": 4,
+    "nome": "Forró no Campus",
+    "tipo": "Cultural",
+    "curso": [
+      "Engenharia de Software",
+      "Ciência da Computação",
+      "Engenharia de Produção",
+      "Engenharia Civil",
+      "Engenharia Mecânica"
+    ],
+    "descricao": "O Forró no Campus é um Projeto de Extensão da UFC Campus Russas no qual alunos, servidores e membros da comunidade podem aprender a dançar forró e outros ritmos de dança. Seu principal objetivo é proporcionar momentos de leveza, alegria e companheirismo entre a comunidade.",
+    "coordenadores": [
+      {
+        "nome": "Rafael Ivo",
+        "categoria": "Professor",
+        "foto": "/img/ivo.jpg"
+      },
+      {
+        "nome": "Maria Clara",
+        "categoria": "Aluna",
+        "foto": "/img/ivo.jpg"
+      }
+    ],
+    "imagemPrincipal": "/img/forronocampus.png",
+
+    "links": {
+      "instagram": "https://www.instagram.com/forronocampus.ufcrussas/"
+    }
+  },
+  {
+    "id": 5,
+    "nome": "GLAM",
+    "tipo": "Cultural",
+    "curso": [
+      "Engenharia de Software",
+      "Ciência da Computação",
+      "Engenharia de Produção",
+      "Engenharia Civil",
+      "Engenharia Mecânica"
+    ],
+    "descricao": "O Grupo de Leitura Abertamente (GLAM) é um projeto de extensão da UFC – Campus de Russas fundado em 2019 com o desejo de incentivar o hábito da leitura e promover a integração cultural. Nosso grupo é aberto e inclusivo, reunindo alunos, professores, servidores e toda a comunidade de Russas. O GLAM transforma a leitura em um caminho para o crescimento pessoal e a descoberta de novos horizontes. Nós nos tornamos um ponto de encontro de ideias, onde a leitura se transforma em diálogo, experiência e descoberta. A cada mês, exploramos obras de diferentes estilos, autores e temas, nacionais e internacionais, sempre buscando ampliar horizontes e fazer com que os participantes explorem perspectivas variadas. Nossa dinâmica é simples e inclusiva. Todo mês, definimos um tema e os próprios participantes dão sugestões de livros sobre ele. A obra que vamos debater é sempre definida por votação lá no nosso grupo do WhatsApp. Para o nosso bate-papo, o encontro rola na última terça-feira do mês, às 12h30, dentro das 'Terças Culturais', em um formato bem acolhedor de roda de conversa.",
+    "coordenadores": [
+      {
+        "nome": "Rafael Ivo",
+        "categoria": "Professor",
+        "foto": "/img/ivo.jpg"
+      },
+      {
+        "nome": "Maria Clara",
+        "categoria": "Aluna",
+        "foto": "/img/ivo.jpg"
+      }
+    ],
+    "imagemPrincipal": "/img/glam.png",
+
+    "links": {
+      "instagram": "https://www.instagram.com/unierpg/"
+    }
+  },
+  {
+    "id": 6,
+    "nome": "UNI&RPG",
+    "tipo": "Cultural",
+    "curso": [
+      "Engenharia de Software",
+      "Ciência da Computação",
+      "Engenharia de Produção",
+      "Engenharia Civil",
+      "Engenharia Mecânica"
+    ],
+    "descricao": "Sejam bem-vindos ao UNI&RPG! 🎲✨ Nosso projeto é um espaço inclusivo onde você pode explorar novas aventuras, desenvolver sua criatividade, melhorar suas habilidades interpessoais e fortalecer o trabalho em equipe. Aqui, além de se divertir, você encontra uma comunidade acolhedora que valoriza a diversidade e o aprendizado conjunto. Venha fazer parte dessa jornada!",
+    "coordenadores": [
+      {
+        "nome": "Rafael Ivo",
+        "categoria": "Professor",
+        "foto": "/img/ivo.jpg"
+      },
+      {
+        "nome": "Maria Clara",
+        "categoria": "Aluna",
+        "foto": "/img/ivo.jpg"
+      }
+    ],
+    "imagemPrincipal": "/img/unirpg.png",
+
+    "links": {
+      "instagram": "https://www.instagram.com/forronocampus.ufcrussas/"
+    }
+  },
+  {
+    "id": 7,
+    "nome": "Redescobrindo os Clássicos",
+    "tipo": "Cultural",
+    "curso": [
+      "Engenharia de Software",
+      "Ciência da Computação",
+      "Engenharia de Produção",
+      "Engenharia Civil",
+      "Engenharia Mecânica"
+    ],
+    "descricao": "O projeto tem como objetivo abordar clássicos da literatura, pois são obras atemporais, obras que continuam conversando com nós até hoje, que chegam até nós trazendo consigo as marcas das leituras que precederam a nossa cultura e os traços que deixaram e isso instiga a nós entendermos quem somos e aonde chegamos. A sua participação é fundamental para o projeto, tanto para expandir a ideia como isso lhe trará vantagens como o desenvolvimento ao incentivo à leitura, troca de experiências entre os leitores e a saída da zona de conforto.",
+    "coordenadores": [
+      {
+        "nome": "Rafael Ivo",
+        "categoria": "Professor",
+        "foto": "/img/ivo.jpg"
+      },
+      {
+        "nome": "Maria Clara",
+        "categoria": "Aluna",
+        "foto": "/img/ivo.jpg"
+      }
+    ],
+    "imagemPrincipal": "/img/inovalejr.png",
+
+    "links": {
+      "instagram": "https://www.instagram.com/forronocampus.ufcrussas/"
+    }
+  },
+  {
+    "id": 8,
+    "nome": "Palavras do Jaguaribe",
+    "tipo": "Cultural",
+    "curso": [
+      "Engenharia de Software",
+      "Ciência da Computação",
+      "Engenharia de Produção",
+      "Engenharia Civil",
+      "Engenharia Mecânica"
+    ],
+    "descricao": "Você conhece os poetas do Vale do Jaguaribe? Imagine crescer cercado por histórias, repentes, cordéis e músicas, mas nunca ouvir falar de quem criou tudo isso. É isso que acontece com muitos artistas do Vale do Jaguaribe. Vamos mudar isso? Nosso projeto quer dar voz a esses nomes e preservar suas obras, pois, embora o Vale seja um verdadeiro celeiro de cultura popular, muitos escritores, poetas e repentistas da região ainda são invisíveis. Mais que um projeto, é um resgate de memória. O que a gente vai fazer na prática é ler uma obra por mês de autores do Vale, pesquisar suas histórias e trajetórias, e produzir resenhas para compartilhar nas redes. Tudo isso com um único foco: espalhar a força da literatura jaguaribana.",
+    "coordenadores": [
+      {
+        "nome": "Rafael Ivo",
+        "categoria": "Professor",
+        "foto": "/img/ivo.jpg"
+      },
+      {
+        "nome": "Maria Clara",
+        "categoria": "Aluna",
+        "foto": "/img/ivo.jpg"
+      }
+    ],
+    "imagemPrincipal": "/img/palavras_do_jaguaribe.png",
+
+    "links": {
+      "instagram": "https://www.instagram.com/forronocampus.ufcrussas/"
+    }
+  },
+  {
+    "id": 9,
+    "nome": "LearningLab",
+    "tipo": "Extensão",
+    "curso": ["Engenharia de Software", "Ciência da Computação"],
+    "descricao": "O objetivo deste projeto de extensão é contribuir para o processo de formação dos estudantes dos cursos de Ciência da Computação e Engenharia de Software da UFC no Campus de Russas através de uma aprendizagem significativa (para além da sala de aula) e multidisciplinar (que envolva os mais variados departamentos, áreas e setores). Este projeto irá contribuir com o desenvolvimento de recursos humanos especializados em tecnologias de apoio a gestão do conhecimento, fatores de influência para gestão do conhecimento e técnicas de ensino aprendizagem. Além disso, pretende-se obter resultados esperados relacionados aos seguintes objetivos específicos: (a) identificação de abordagens de ensino de Engenharia de Software e Gestão do Conhecimento; (b) desenvolvimento e/ou adaptação de métodos e modelos de ensino voltados para gestão do conhecimento; (c) desenvolvimento de estratégias para divulgar as áreas de Computação no Estado do Ceará; (d) fomento de interesse de alunos para divulgar as áreas de Computação no Estado do Ceará; e (e) condução de ensinos voltados para os alunos de Computação do Estado do Ceará visando contribuir na formação de recursos humanos. O presente projeto tem o intuito de alavancar a área de Computação na Região Nordeste do Brasil, auxiliando na aquisição dos conhecimentos necessários para a inserção dos futuros profissionais no mercado de trabalho com os conhecimentos adquiridos no Ensino Superior.",
+    "coordenadores": [
+      {
+        "nome": "Rafael Ivo",
+        "categoria": "Professor",
+        "foto": "/img/ivo.jpg"
+      },
+      {
+        "nome": "Maria Clara",
+        "categoria": "Aluna",
+        "foto": "/img/ivo.jpg"
+      }
+    ],
+    "imagemPrincipal": "/img/learninglab.png",
+    "links": {}
+  },
+  {
+    "id": 10,
+    "nome": "TOP",
+    "tipo": "Extensão",
+    "curso": [
+      "Engenharia de Software",
+      "Ciência da Computação",
+      "Engenharia Civil",
+      "Engenharia de Produção",
+      "Engenharia Mecânica"
+    ],
+    "descricao": "O projeto TOP é uma iniciativa de extensão que visa capacitar estudantes nas áreas de comunicação e marketing. O projeto é vinculado à Coordenação de Comunicação e Produção Cultural do Campus da UFC e tem como objetivo principal auxiliar a Coordenação nas demandas do dia-a-dia, oferecendo suporte à realização de atividades e melhorias nos fluxos de comunicação do campus. Os bolsistas voluntários desempenham trabalhos de comunicação interna, planejamento de marketing, publicidade, criação de peças gráficas, cobertura fotográfica, assessoria de imprensa e produção de eventos. O projeto também busca trabalhar com a sociedade, através da realização de percursos formativos e de capacitação nas áreas do marketing e da comunicação social, desenvolvendo o caráter extensionista do projeto e atuando com a comunidade local.",
+    "coordenadores": [
+      {
+        "nome": "Rafael Ivo",
+        "categoria": "Professor",
+        "foto": "/img/ivo.jpg"
+      },
+      {
+        "nome": "Maria Clara",
+        "categoria": "Aluna",
+        "foto": "/img/ivo.jpg"
+      }
+    ],
+    "imagemPrincipal": "/img/top.png",
+    "links": {}
+  },
+
+  {
+    "id": 11,
+    "nome": "SESCOMP",
+    "tipo": "Evento",
+    "curso": ["Ciência da Computação", "Engenharia de Software"],
+    "descricao": "A Semana de Engenharia de Software e Ciência da Computação (SESCOMP) é um evento anual da Universidade Federal do Ceará (UFC) no Campus de Russas, que reúne estudantes, professores e profissionais em torno da tecnologia. Durante uma semana, ocorrem palestras, workshops e debates que criam um espaço perfeito para aprender, trocar ideias, inovar e se conectar com a comunidade da área de tecnologia.",
+    "coordenadores": [
+      {
+        "nome": "Rafael Ivo",
+        "categoria": "Professor",
+        "foto": "/img/ivo.jpg"
+      },
+      {
+        "nome": "Maria Clara",
+        "categoria": "Aluna",
+        "foto": "/img/ivo.jpg"
+      }
+    ],
+    "imagemPrincipal": "/img/sescomp.png",
+    "links": {}
+  },
+  {
+    "id": 12,
+    "nome": "SER",
+    "tipo": "Evento",
+    "curso": [
+      "Engenharia Civil",
+      "Engenharia de Produção",
+      "Engenharia Mecânica"
+    ],
+    "descricao": "A Semana das Engenharias de Russas (SER) é um evento acadêmico que ocorre anualmente na Universidade Federal do Ceará, Campus Russas. O evento reúne estudantes e profissionais das áreas de Engenharia de Produção, Engenharia Mecânica, Engenharia Civil, Empreendedorismo, Inovação, Ciências e Tecnologia. A programação inclui palestras, minicursos, workshops e atividades práticas, visando capacitar pessoas, estimular a inovação e abrir novas perspectivas. O evento é gratuito e oferece uma oportunidade para que os participantes aprendam e se conectem com o ambiente profissional.",
+    "coordenadores": [
+      {
+        "nome": "Rafael Ivo",
+        "categoria": "Professor",
+        "foto": "/img/ivo.jpg"
+      },
+      {
+        "nome": "Maria Clara",
+        "categoria": "Aluna",
+        "foto": "/img/ivo.jpg"
+      }
+    ],
+    "imagemPrincipal": "/img/ser.png",
+    "links": {}
+  },
+  {
+    "id": 13,
+    "nome": "Encontros Universitários",
+    "tipo": "Evento",
+    "curso": [
+      "Ciência da Computação",
+      "Engenharia Civil",
+      "Engenharia de Produção",
+      "Engenharia de Software",
+      "Engenharia Mecânica"
+    ],
+    "descricao": "Os Encontros Universitários da UFC em Russas são eventos acadêmicos, artísticos e culturais que promovem a integração e a troca de experiências entre estudantes, docentes e a comunidade. O evento abrange diversas áreas, como iniciação científica, pesquisa e práticas educacionais. Durante os três dias, haverá apresentações de trabalhos, palestras, oficinas e atividades culturais gratuitas, visando fortalecer conexões e ampliar o aprendizado. ",
+    "coordenadores": [
+      {
+        "nome": "Rafael Ivo",
+        "categoria": "Professor",
+        "foto": "/img/ivo.jpg"
+      },
+      {
+        "nome": "Maria Clara",
+        "categoria": "Aluna",
+        "foto": "/img/ivo.jpg"
+      }
+    ],
+    "imagemPrincipal": "/img/encontros_universitarios.png",
+    "links": {}
+  },
+  {
+    "id": 14,
+    "nome": "Include Jr",
+    "tipo": "Empresa Júnior",
+    "curso": ["Engenharia de Software", "Ciência da Computação"],
+    "descricao": "A Include jr é uma empresa júnior dos cursos de Engenharia de Software e Ciência da Computação do campus de Russas da Universidade Federal do Ceará. Fundada em 2018 e gerida unicamente por estudantes desses cursos, a empresa atua na área de Tecnologia da Informação, oferecendo serviços que sanem as dores dos seus clientes, otimizando seus processos e melhorando a sua colocação nas áreas em que atuam. Entre os serviços oferecidos pela Include Jr. estão: Consultoria Individual, Desenvolvimento de Software, Desenvolvimento de Websites e Criação de Apps.",
+    "coordenadores": [
+      {
+        "nome": "Rafael Ivo",
+        "categoria": "Professor",
+        "foto": "/img/ivo.jpg"
+      },
+      {
+        "nome": "Maria Clara",
+        "categoria": "Aluna",
+        "foto": "/img/ivo.jpg"
+      }
+    ],
+    "imagemPrincipal": "/img/includejr.png",
+
+    "links": {
+      "instagram": "https://www.instagram.com/includejr/",
+      "website": "https://www.inovalejr.com.br/empresa/",
+      "linkedin": "https://www.linkedin.com/company/include-jr/?originalSubdomain=br"
+    }
+  },
+  {
+    "id": 15,
+    "nome": "Inovale Jr",
+    "tipo": "Empresa Júnior",
+    "curso": "Engenharia de Produção",
+    "descricao": "A Inovale Jr é uma empresa de consultoria em gestão empresarial e soluções mecânicas, constituída e gerida exclusivamente por alunos de graduação dos cursos de Engenharia de Produção e Engenharia Mecânica da Universidade Federal do Ceará - Campus Russas. Desenvolvemos projetos e prestamos serviços para empresas, com foco total no cliente, buscando crescer seu negócio para impactar cada vez mais pessoas.",
+    "coordenadores": [
+      {
+        "nome": "Rafael Ivo",
+        "categoria": "Professor",
+        "foto": "/img/ivo.jpg"
+      },
+      {
+        "nome": "Maria Clara",
+        "categoria": "Aluna",
+        "foto": "/img/ivo.jpg"
+      }
+    ],
+    "imagemPrincipal": "/img/inovalejr.png",
+
+    "links": {
+      "instagram": "https://instagram.com/inovalejr",
+      "website": "https://www.inovalejr.com.br/empresa/",
+      "linkedin": "https://www.linkedin.com/company/inovale-jr/"
+    }
+  },
+  {
+    "id": 16,
+    "nome": "Vale J Jr",
+    "tipo": "Empresa Júnior",
+    "curso": "Engenharia Mecânica",
+    "descricao": "A Vale J é uma Empresa Júnior vinculada à Universidade Federal do Ceará – Campus de Russas, formada por estudantes comprometidos em oferecer soluções técnicas e inovadoras na área da engenharia e arquitetura. Entre os principais serviços prestados pela ValeJ estão o levantamento arquitetônico, orçamento de obras, projetos elétricos, usucapião (com levantamento planimétrico) e cursos de capacitação voltados à formação prática e profissional. Com foco na qualidade, aprendizado e impacto social, a ValeJ busca aproximar o ambiente acadêmico do mercado, promovendo experiências reais de trabalho, desenvolvimento técnico e crescimento pessoal para seus membros e clientes.",
+    "coordenadores": [
+      {
+        "nome": "Rafael Ivo",
+        "categoria": "Professor",
+        "foto": "/img/ivo.jpg"
+      },
+      {
+        "nome": "Maria Clara",
+        "categoria": "Aluna",
+        "foto": "/img/ivo.jpg"
+      }
+    ],
+    "imagemPrincipal": "/img/valejjr.png",
+
+    "links": {
+      "instagram": "https://instagram.com/inovalejr",
+      "website": "https://www.inovalejr.com.br/empresa/",
+      "linkedin": "https://www.linkedin.com/company/inovale-jr/"
+    }
+  },
+  {
+    "id": 17,
+    "nome": "Feira das Profissões",
+    "tipo": "Evento",
+    "curso": [
+      "Ciência da Computação",
+      "Engenharia Civil",
+      "Engenharia de Produção",
+      "Engenharia de Software",
+      "Engenharia Mecânica"
+    ],
+    "descricao": "A Feira das Profissões da UFC no campus de Russas é um evento que oferece uma oportunidade única para que estudantes de escolas de todo o Vale do Jaguaribe conheçam os cursos e projetos da universidade. A programação incluirá palestras, testes vocacionais e aulas práticas, visando promover a aproximação dos estudantes do ensino médio com o ambiente universitário e ajudar na escolha de suas futuras carreiras acadêmicas e profissionais.",
+    "coordenadores": [
+      {
+        "nome": "Rafael Ivo",
+        "categoria": "Professor",
+        "foto": "/img/ivo.jpg"
+      },
+      {
+        "nome": "Maria Clara",
+        "categoria": "Aluna",
+        "foto": "/img/ivo.jpg"
+      }
+    ],
+    "imagemPrincipal": "/img/feira_das_profissoes.png",
+    "links": {}
+  },
+  {
+    "id": 18,
+    "nome": "Aprova UFC",
+    "tipo": "Extensão",
+    "curso": [
+      "Ciência da Computação",
+      "Engenharia de Software",
+      "Engenharia Civil",
+      "Engenharia de Produção",
+      "Engenharia Mecânica"
+    ],
+    "descricao": "O projeto APROVA UFC Tem como principal objetivo aprimorar o nível de preparação dos estudantes das escolas públicas que realizarão o vestibular ENEM. O projeto surgiu no ano de 2016, com o intuito de contribuir na preparação de estudantes de escolas públicas do vale do Jaguaribe, com intuito de aumentar o percentual de aprovação no Exame Nacional de Escolas do Ensino Médio. Desta maneira, foram realizados aulas presenciais com aulas de matemática, física e química, objetivando maiores resultados. Com isso, ainda no primeiro ano de projeto, foi conseguida a aprovação de quatorze dos 24 participantes do curso. Onde oito foram aprovados na Universidade Federal do Ceará Campus Russas, três obtiveram aprovação na Universidade Federal Rural do Semiárido (UFERSA), dois conseguiram aprovação na Universidade Estadual do Rio Grande do Norte (UERN), e um obteve aprovação na Universidade Potiguar (UNP). No ano de 2017 o Aprova UFC tornou-se um curso de extensão cadastrado na PREX, visando contribuir de forma mais direta no município de Russas. Com isso o projeto passou a contar com aulas diárias durante todo o ano, compreendendo todas as áreas do conhecimento (exceto geografia, língua estrangeira e sociologia). Foram realizados simulados para adaptação do aluno a prova do ENEM.",
+    "coordenadores": [
+      {
+        "nome": "Rafael Ivo",
+        "categoria": "Professor",
+        "foto": "/img/ivo.jpg"
+      },
+      {
+        "nome": "Maria Clara",
+        "categoria": "Aluna",
+        "foto": "/img/ivo.jpg"
+      }
+    ],
+    "imagemPrincipal": "/img/aprovaufc.png",
+    "links": {}
+  },
+
+  {
+    "id": 19,
+    "nome": "GDS",
+    "tipo": "Extensão",
+    "curso": [
+      "Ciência da Computação",
+      "Engenharia de Software",
+      "Engenharia Civil",
+      "Engenharia de Produção",
+      "Engenharia Mecânica"
+    ],
+    "descricao": "O Grupo de Desenvolvimento em Sustentabilidade (GDS) é um Projeto de Extensão da Universidade Federal do Ceará - Campus Russas. Formado por discentes, docentes e servidores, o grupo desenvolve ações dentro da tríade da sustentabilidade, com o intuito de promover o desenvolvimento sustentável não só no meio acadêmico, mas em todo o Vale do Jaguaribe. O projeto atua em três áreas: ambiental, social e mídias sociais.",
+    "coordenadores": [
+      {
+        "nome": "Rafael Ivo",
+        "categoria": "Professor",
+        "foto": "/img/ivo.jpg"
+      },
+      {
+        "nome": "Maria Clara",
+        "categoria": "Aluna",
+        "foto": "/img/ivo.jpg"
+      }
+    ],
+    "imagemPrincipal": "/img/gds.png",
+    "links": {}
+  },
+  {
+    "id": 20,
+    "nome": "Ares",
+    "tipo": "Extensão",
+    "curso": ["Ciência da Computação", "Engenharia de Software"],
+    "descricao": "Bem-vindos ao Projeto ARES — Análises de Riscos e Estratégias de Segurança da Informação! Somos um grupo de Pesquisa e Extensão dedicado às áreas de Segurança da Informação e Computação Forense, com o propósito de fortalecer o conhecimento e a atuação nessa área tão essencial para o mundo digital. Nosso objetivo é fomentar a pesquisa, promover a conscientização e contribuir para a formação de novos profissionais comprometidos com a proteção de dados e sistemas. Venha construir um futuro mais seguro com a gente!",
+    "coordenadores": [
+      {
+        "nome": "Rafael Ivo",
+        "categoria": "Professor",
+        "foto": "/img/ivo.jpg"
+      },
+      {
+        "nome": "Maria Clara",
+        "categoria": "Aluna",
+        "foto": "/img/ivo.jpg"
+      }
+    ],
+    "imagemPrincipal": "/img/ares.png",
+    "links": {}
+  },
+  {
+    "id": 21,
+    "nome": "PROGETE",
+    "tipo": "Extensão",
+    "curso": ["Ciência da Computação", "Engenharia de Software"],
+    "descricao": "O PROGETE (Programa de Ensino e Troca de Experiências) da Universidade Federal do Ceará – Campus Russas integra atividades de ensino, pesquisa e extensão. O projeto busca ampliar os conhecimentos trabalhados nos cursos de Engenharia de Software e Ciência da Computação, abordando também temas de relevância social, como saúde e educação. Seu objetivo é aproximar a comunidade, compreender suas necessidades e promover a troca de experiências. A participação da população é fundamental para alcançar bons resultados e desenvolver soluções que atendam às demandas compartilhadas. Compartilhar a iniciativa contribui para ampliar o engajamento comunitário.",
+    "coordenadores": [
+      {
+        "nome": "Patricia Vasconcelos",
+        "categoria": "Professora",
+        "foto": "/img/patricia_vasconcelos.png"
+      }
+    ],
+    "imagemPrincipal": "/img/PROGETE.png",
+    "links": {}
+  },
+  {
+    "id": 22,
+    "nome": "NERDS",
+    "tipo": "Extensão",
+    "curso": ["Ciência da Computação", "Engenharia de Software"],
+    "descricao": "Projeto que une engenharia e escultura em metal reciclado.",
+    "coordenadores": [
+      {
+        "nome": "Marcos Vinicius",
+        "categoria": "Professor",
+        "foto": "/img/marcos_vinicius.png"
+      }
+    ],
+    "imagemPrincipal": "/img/NERDS.png",
+    "links": {}
+  },
+
+  {
+    "id": 23,
+    "nome": "Filhas de Edwiges",
+    "tipo": "Extensão",
+    "curso": "Engenharia Civil",
+    "descricao": "O projeto Filhas de Edwiges tem o intuito de fortalecer a participação feminina no curso de Engenharia Civil da UFC, campus de Russas. O nome do projeto é uma homenagem a Edwiges Becker, a primeira mulher a se formar em Engenharia Civil no Brasil. Dessa forma, o projeto faz parte de uma iniciativa para incentivar a presença de mulheres nos cursos de exatas e mostrar que a Engenharia Civil também é lugar de mulher.",
+    "coordenadores": [
+      {
+        "nome": "Rafael Ivo",
+        "categoria": "Professor",
+        "foto": "/img/ivo.jpg"
+      },
+      {
+        "nome": "Maria Clara",
+        "categoria": "Aluna",
+        "foto": "/img/ivo.jpg"
+      }
+    ],
+    "imagemPrincipal": "/img/filhas_de_edwiges.png",
+    "links": {}
+  },
+  {
+    "id": 24,
+    "nome": "Aratinga Aerodesign",
+    "tipo": "Extensão",
+    "curso": "Engenharia Mecânica",
+    "descricao": "A Equipe Aratinga Aerodesign tem como objetivo principal, desenvolver seus alunos com visão crítica de projeto, capacidade de pesquisa, desenvolvimento de lideranças, e como consequência deste trabalho, garantir vaga na competição SAE Brasil Aerodesign do corrente ano através do desenvolvimento de um projeto consistente de aeromodelos capazes de realizar manobras com ou sem carga. Serão realizadas reuniões para estudo e desenvolvimento do projeto, com o uso de softwares e materiais adquiridos para sua devida construção. Para participar da equipe serão requeridas características como dedicação, empenho e foco no trabalho, para que ele seja bem-sucedido, podendo haver penalidades para estudantes que integram a equipe, por não se mostram presentes no trabalho desenvolvido. Tem-se como ideia principal: estimular o caráter criativo e investigativo, desenvolver disciplina, responsabilidade acadêmica e social em cada integrante participante.",
+    "coordenadores": [
+      {
+        "nome": "Edvan Cordeiro de Miranda",
+        "categoria": "Professor",
+        "foto": "/img/marcos_vinicius.png"
+      }
+    ],
+    "imagemPrincipal": "/img/aratinga_aerodesign.png",
+    "links": {}
+  },
+  {
+    "id": 25,
+    "nome": "PAE",
+    "tipo": "Extensão",
+    "curso": ["Ciência da Computação", "Engenharia de Software"],
+    "descricao": "Esta ação de extensão visa promover conhecimentos sobre desenvolvimento de sistemas aos estudantes da educação básica das escolas públicas de Russas. Esses estudantes serão capacitados por graduandos dos cursos de ciência da computação e engenharia de software da UFC de Russas. A ideia é que inicialmente os alunos da educação básica sejam capacitados e que posteriormente esses alunos possam participar de atividades relacionadas ao projeto, desenvolvimento, teste e implantação de uma solução de software voltada para a comunidade acadêmica como forma de praticar os conhecimentos adquiridos. A ação também promoverá a integração da comunidade local com a comunidade acadêmica e será um instrumento de divulgação do Campus de Russas da Universidade Federal do Ceará.",
+    "coordenadores": [
+      {
+        "nome": "Rafael Ivo",
+        "categoria": "Professor",
+        "foto": "/img/ivo.jpg"
+      },
+      {
+        "nome": "Maria Clara",
+        "categoria": "Aluna",
+        "foto": "/img/ivo.jpg"
+      }
+    ],
+    "imagemPrincipal": "/img/pae.png",
+    "links": {}
+  },
+  {
+    "id": 26,
+    "nome": "NutriCom",
+    "tipo": "Extensão",
+    "curso": [
+      "Ciência da Computação",
+      "Engenharia de Software",
+      "Engenharia Civil",
+      "Engenharia Mecânica",
+      "Engenharia de Produção"
+    ],
+    "descricao": "O NutriCom é um projeto de extensão da UFC - Campus Russas, criado para informar e envolver a comunidade acadêmica e os residentes do Vale do Jaguaribe. Nosso objetivo é democratizar o conhecimento sobre nutrição, promovendo conteúdo relevante e incentivando o engajamento para o bem-estar coletivo. Nossa missão é oferecer à comunidade acadêmica e local acesso a informações sobre alimentação saudável e práticas nutricionais, criando um espaço colaborativo para compartilhar e discutir conhecimentos sobre saúde alimentar de forma acessível e educativa. Nossa visão é nos tornar referência regional em comunicação sobre nutrição, impactando positivamente a saúde e o bem-estar da comunidade acadêmica e local. Buscamos fornecer conteúdo de qualidade, criando um espaço contínuo de aprendizagem sobre saúde alimentar.",
+    "coordenadores": [
+      {
+        "nome": "Rafael Ivo",
+        "categoria": "Professor",
+        "foto": "/img/ivo.jpg"
+      },
+      {
+        "nome": "Maria Clara",
+        "categoria": "Aluna",
+        "foto": "/img/ivo.jpg"
+      }
+    ],
+    "imagemPrincipal": "/img/nutricom.png",
+    "links": {}
+  },
+  {
+    "id": 27,
+    "nome": "Centro Acadêmico Ada Lovelace",
+    "tipo": "Centro Acadêmico",
+    "curso": "Ciência da Computação",
+    "descricao": "O Centro Acadêmico Ada Lovelace é a entidade estudantil que representa os alunos do curso de Ciência da Computação da UFC – Campus de Russas. Formado por estudantes, o CAAL atua na organização de atividades acadêmicas, culturais e de integração, além de servir como ponte entre os discentes e a coordenação do curso. Seu objetivo é fortalecer a comunidade estudantil, promover debates, apoiar iniciativas de bem-estar e incentivar a participação dos alunos na vida universitária. Inspirado na pioneira Ada Lovelace, o centro busca valorizar a história da computação e estimular o protagonismo estudantil dentro do campus.",
+    "coordenadores": [
+      {
+        "nome": "Rafael Ivo",
+        "categoria": "Professor",
+        "foto": "/img/ivo.jpg"
+      },
+      {
+        "nome": "Maria Clara",
+        "categoria": "Aluna",
+        "foto": "/img/ivo.jpg"
+      }
+    ],
+    "imagemPrincipal": "/img/centro_academico_ada_lovelace.png",
+    "links": {}
+  },
+  {
+    "id": 28,
+    "nome": "Centro Acadêmico Margaret Hamilton",
+    "tipo": "Centro Acadêmico",
+    "curso": "Engenharia de Software",
+    "descricao": "O Centro Acadêmico Ada Lovelace é a entidade estudantil que representa os alunos do curso de Ciência da Computação da UFC – Campus de Russas. Formado por estudantes, o CAAL atua na organização de atividades acadêmicas, culturais e de integração, além de servir como ponte entre os discentes e a coordenação do curso. Seu objetivo é fortalecer a comunidade estudantil, promover debates, apoiar iniciativas de bem-estar e incentivar a participação dos alunos na vida universitária. Inspirado na pioneira Ada Lovelace, o centro busca valorizar a história da computação e estimular o protagonismo estudantil dentro do campus.",
+    "coordenadores": [
+      {
+        "nome": "Rafael Ivo",
+        "categoria": "Professor",
+        "foto": "/img/ivo.jpg"
+      },
+      {
+        "nome": "Maria Clara",
+        "categoria": "Aluna",
+        "foto": "/img/ivo.jpg"
+      }
+    ],
+    "imagemPrincipal": "/img/centro_academico_margaret_hamilton.png",
+    "links": {}
+  },
+  {
+    "id": 29,
+    "nome": "Centro Acadêmico de Engenharia Mecânica",
+    "tipo": "Centro Acadêmico",
+    "curso": "Engenharia Mecânica",
+    "descricao": "O CAMEC é o Centro Acadêmico que representa os estudantes de Engenharia Mecânica da UFC – Campus de Russas. Formado por alunos voluntários, ele atua como ponte entre a comunidade discente e a coordenação do curso, levando demandas, sugestões e ajudando a melhorar a experiência universitária. Além da representação estudantil, o CAMEC promove atividades acadêmicas, ações de integração e iniciativas que fortalecem o curso e aproximam os alunos. Seu papel é apoiar os estudantes, incentivar a participação e contribuir para a construção de um ambiente acadêmico mais ativo, organizado e colaborativo.",
+    "coordenadores": [
+      {
+        "nome": "Rafael Ivo",
+        "categoria": "Professor",
+        "foto": "/img/ivo.jpg"
+      },
+      {
+        "nome": "Maria Clara",
+        "categoria": "Aluna",
+        "foto": "/img/ivo.jpg"
+      }
+    ],
+    "imagemPrincipal": "/img/camec.png",
+    "links": {}
+  },
+  {
+    "id": 30,
+    "nome": "Centro Acadêmico Roberta Feijão",
+    "tipo": "Centro Acadêmico",
+    "curso": "Engenharia de Produção",
+    "descricao": "O Centro Acadêmico Ada Lovelace é a entidade estudantil que representa os alunos do curso de Ciência da Computação da UFC – Campus de Russas. Formado por estudantes, o CAAL atua na organização de atividades acadêmicas, culturais e de integração, além de servir como ponte entre os discentes e a coordenação do curso. Seu objetivo é fortalecer a comunidade estudantil, promover debates, apoiar iniciativas de bem-estar e incentivar a participação dos alunos na vida universitária. Inspirado na pioneira Ada Lovelace, o centro busca valorizar a história da computação e estimular o protagonismo estudantil dentro do campus.",
+    "coordenadores": [
+      {
+        "nome": "Rafael Ivo",
+        "categoria": "Professor",
+        "foto": "/img/ivo.jpg"
+      },
+      {
+        "nome": "Maria Clara",
+        "categoria": "Aluna",
+        "foto": "/img/ivo.jpg"
+      }
+    ],
+    "imagemPrincipal": "/img/centro_academico_roberta_feijao.png",
+    "links": {}
+  },
+  {
+    "id": 31,
+    "nome": "Centro Acadêmico Rhuan Cavalcante",
+    "tipo": "Centro Acadêmico",
+    "curso": "Engenharia Civil",
+    "descricao": "O Centro Acadêmico Ada Lovelace é a entidade estudantil que representa os alunos do curso de Ciência da Computação da UFC – Campus de Russas. Formado por estudantes, o CAAL atua na organização de atividades acadêmicas, culturais e de integração, além de servir como ponte entre os discentes e a coordenação do curso. Seu objetivo é fortalecer a comunidade estudantil, promover debates, apoiar iniciativas de bem-estar e incentivar a participação dos alunos na vida universitária. Inspirado na pioneira Ada Lovelace, o centro busca valorizar a história da computação e estimular o protagonismo estudantil dentro do campus.",
+    "coordenadores": [
+      {
+        "nome": "Rafael Ivo",
+        "categoria": "Professor",
+        "foto": "/img/ivo.jpg"
+      },
+      {
+        "nome": "Maria Clara",
+        "categoria": "Aluna",
+        "foto": "/img/ivo.jpg"
+      }
+    ],
+    "imagemPrincipal": "/img/carc.png",
+    "links": {}
+  },
+  {
+    "id": 32,
+    "nome": "Iaguary Baja",
+    "tipo": "Extensão",
+    "curso": "Engenharia Mecânica",
+    "descricao": "O Projeto Iaguary Baja – UFC Russas é um desafio submetido aos alunos de engenharia que oferece a oportunidade de aplicar na prática os conhecimentos adquiridos durante sua permanência na universidade, visando incorporar características diferenciadas ao futuro profissional de engenharia. Durante sua permanência no projeto, os estudantes aprendem a lidar com um projeto de caso real, desde sua concepção aos testes de simulação e resolução de problemas. Além do projeto Baja SAE UFC – Russas, o programa visa também um melhor reconhecimento dos cursos de engenharia da universidade, bem como a diminuição da evasão de alunos ingressantes na faculdade, uma melhor complementação da formação acadêmica dos alunos e uma aproximação entre a comunidade de Russas com a UFC. Durante a vigência do projeto, será construído um acervo de material de estudos e apoio com o tema veículo off-road, para assessorar os demais integrantes que farão parte e darão prosseguimento ao Projeto Baja SAE – UFC Russas.",
+    "coordenadores": [
+      {
+        "nome": "Candido Jorge De Sousa Lobo",
+        "categoria": "Professor",
+        "foto": "/img/marcos_vinicius.png"
+      }
+    ],
+    "imagemPrincipal": "/img/iaguary_baja.png",
+    "links": {}
+  }
+]

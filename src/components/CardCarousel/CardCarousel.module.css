@@ -1,0 +1,108 @@
+.section {
+  margin: 2rem 0;
+  padding: 0 2rem 0 2rem;
+  position: relative;
+}
+
+.titulo {
+  color: var(--cor-principal);
+  font-size: 1.4rem;
+  font-weight: bolder;
+  margin-bottom: 1rem;
+  border-left: 4px solid var(--cor-principal);
+  padding-left: 8px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.carouselContainer {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.carousel {
+  display: flex;
+  gap: 1rem;
+  overflow-x: auto;
+  overflow-y: hidden;
+  white-space: nowrap;
+  scroll-behavior: smooth;
+  -webkit-overflow-scrolling: touch;
+  padding-bottom: 1rem;
+  scroll-snap-type: x mandatory;
+  scrollbar-width: none;
+}
+
+.carousel::-webkit-scrollbar {
+  display: none;
+}
+
+.carousel > * {
+  flex: 0 0 auto;
+  scroll-snap-align: start;
+}
+
+.arrow {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background: rgba(0, 0, 0, 0.6);
+  color: white;
+  border: none;
+  font-size: 1.6rem;
+  width: 45px;
+  height: 45px;
+  border-radius: 50%;
+  cursor: pointer;
+  z-index: 5;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+  will-change: transform;
+  transition: all 0.3s ease;
+}
+
+.arrow:hover {
+  background: var(--cor-principal);
+  transform: translateY(-50%) scale(1.02);
+}
+
+.leftArrow {
+  left: -1rem;
+}
+
+.rightArrow {
+  right: -1rem;
+}
+
+@media (max-width: 768px) {
+  .arrow {
+    display: none;
+  }
+
+  .section {
+    padding: 0 0.3rem 0 1rem;
+  }
+
+  .titulo {
+    font-size: 1.2rem;
+  }
+
+  .carousel {
+    gap: 0.8rem;
+    padding-bottom: 0.8rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .titulo {
+    font-size: 1rem;
+  }
+
+  .carousel {
+    gap: 0.6rem;
+    padding-bottom: 0.6rem;
+  }
+}

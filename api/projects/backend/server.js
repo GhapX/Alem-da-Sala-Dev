@@ -14,7 +14,7 @@ process.on('unhandledRejection', (reason) => {
 
 let data;
 try {
-  data = require('../src/data/data.json');
+  data = require('../../../src/data/data.json');
 } catch (e) {
   console.error('Não foi possível carregar src/data/data.json:', e.message);
   data = [];
